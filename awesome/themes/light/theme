@@ -1,0 +1,26 @@
+---------------------------
+-- Default awesome theme --
+---------------------------
+
+font          = nu 8
+
+bg_normal     = #cbd9e2
+bg_focus      = #6dacd8
+bg_urgent     = #a9d3ec
+
+fg_normal     = #22303d
+fg_focus      = #22303d
+fg_urgent     = #22303d
+
+border_width  = 1
+border_normal = #cbd9e2
+border_focus  = #6dacd8
+border_marked = #a9d3ec
+
+tasklist_floating_icon = /home/verner/.config/awesome/themes/light/tasklist/floatingw.png
+
+layout_floating = /home/verner/.config/awesome/themes/light/layouts/floatingw.png
+layout_max = /home/verner/.config/awesome/themes/light/layouts/maxw.png
+layout_tile = /home/verner/.config/awesome/themes/light/layouts/tilew.png
+
+wallpaper_cmd = feh --bg-scale /home/verner/.config/awesome/themes/light/wallpaper.jpg
